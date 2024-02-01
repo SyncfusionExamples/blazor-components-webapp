@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGrid_Auto", "DataGrid_Auto\DataGrid_Auto.csproj", "{B50DF927-7D22-4209-B9C0-5F7A8A05D60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGrid_Auto.Client", "DataGrid_Auto.Client\DataGrid_Auto.Client.csproj", "{3D88A1F4-F554-4503-9982-BB6A76D4E0E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50DF927-7D22-4209-B9C0-5F7A8A05D60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50DF927-7D22-4209-B9C0-5F7A8A05D60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50DF927-7D22-4209-B9C0-5F7A8A05D60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50DF927-7D22-4209-B9C0-5F7A8A05D60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D88A1F4-F554-4503-9982-BB6A76D4E0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D88A1F4-F554-4503-9982-BB6A76D4E0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D88A1F4-F554-4503-9982-BB6A76D4E0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D88A1F4-F554-4503-9982-BB6A76D4E0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37283492-FFC0-4DE0-BE7C-49725FEE6421}
+	EndGlobalSection
+EndGlobal
