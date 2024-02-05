@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chart_Auto", "Chart_Auto\Chart_Auto.csproj", "{D5C61C80-5FC6-4341-985C-5FCB0387984B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chart_Auto.Client", "Chart_Auto.Client\Chart_Auto.Client.csproj", "{D67C0558-CB05-4617-A6DC-2DDB51F864A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C61C80-5FC6-4341-985C-5FCB0387984B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C61C80-5FC6-4341-985C-5FCB0387984B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C61C80-5FC6-4341-985C-5FCB0387984B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C61C80-5FC6-4341-985C-5FCB0387984B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67C0558-CB05-4617-A6DC-2DDB51F864A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67C0558-CB05-4617-A6DC-2DDB51F864A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67C0558-CB05-4617-A6DC-2DDB51F864A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67C0558-CB05-4617-A6DC-2DDB51F864A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D64262-88C2-43B9-8F4A-87322FCA74C4}
+	EndGlobalSection
+EndGlobal
